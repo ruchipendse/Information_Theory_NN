@@ -1,3 +1,1 @@
-# Information_Theory_NN
-Project on an intuitive understanding of Neural Networks with Information Theory.
-S
+Understanding Machine Learning with an Information Theoretic approach.
